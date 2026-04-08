@@ -69,5 +69,8 @@ The goal is to combine **data analytics + predictive modeling** into one interac
    - Deployed on **Streamlit Cloud**  
 
 
+Author:
+Smit patel
+
 
 
